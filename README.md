@@ -25,13 +25,11 @@
 **CIRCUIT DIAGRAM:**
 
 
+<img width="818" height="516" alt="image" src="https://github.com/user-attachments/assets/4b32c104-1dde-4073-8246-b58602df061e" />
 
 
 
-
-
-
-
+<img width="804" height="442" alt="image" src="https://github.com/user-attachments/assets/35086cce-567b-412f-938b-38e1a9fd8e21" />
 
 
 
