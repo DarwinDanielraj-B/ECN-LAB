@@ -24,14 +24,10 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="818" height="516" alt="image" src="https://github.com/user-attachments/assets/4d60365d-0354-43f0-b0c9-68356c9e7a07" />
 
 
-
-
-
-
-
-
+<img width="804" height="442" alt="image" src="https://github.com/user-attachments/assets/64ee0e57-79e4-44b1-8599-06e78e0dd4a2" />
 
 
 
